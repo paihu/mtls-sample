@@ -1,2 +1,2 @@
-variable "route53_zone_id" {
+variable "route53_zone_name" {
 }

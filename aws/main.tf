@@ -57,7 +57,7 @@ resource "aws_acm_certificate" "this" {
 }
 
 data "aws_route53_zone" "this" {
-  name = var.route53_zone_id
+  name = var.route53_zone_name
 }
 resource "aws_route53_record" "certificate" {
   for_each = {

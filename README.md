@@ -32,7 +32,7 @@ terraform init
 ```
 3. terraform apply
 
-require public hosted zone id
+require public hosted zone name
 ```
 terraform init
 ```
