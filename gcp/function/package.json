@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-docs-samples-functions-hello-world-http",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": "Google Inc.",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@google-cloud/functions-framework": ">3.1.0"
+  }
+}
