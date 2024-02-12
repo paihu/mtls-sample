@@ -34,7 +34,7 @@ terraform init
 
 require public hosted zone name
 ```
-terraform init
+terraform apply
 ```
 4. test
 ```
@@ -60,7 +60,7 @@ terraform init
 
 require public hosted zone name, project id
 ```
-terraform init
+terraform apply
 ```
 4. test
 ```
